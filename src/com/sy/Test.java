@@ -38,6 +38,7 @@ public class Test {
         System.out.println(uu123);
         System.out.println(uu123);
         System.out.println(uu123);
+        System.out.println("我怎么知道呢");
 
     }
 
