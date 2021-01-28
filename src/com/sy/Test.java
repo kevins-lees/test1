@@ -38,6 +38,7 @@ public class Test {
         System.out.println(uu123);
         System.out.println(uu123);
         System.out.println(uu123);
+        System.out.println("阿斯顿福建卡士大夫看见啊是的咖啡机暗红色的会计复核");
 
     }
 
