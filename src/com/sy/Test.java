@@ -36,6 +36,8 @@ public class Test {
         Users uu123 = servletUser.selectoneUser2(21, "uu123");
         System.out.println(uu123);
         System.out.println(uu123);
+        System.out.println(uu123);
+        System.out.println(uu123);
 
     }
 
